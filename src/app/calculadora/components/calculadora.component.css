@@ -1,0 +1,44 @@
+.kz-btn {
+  width: 90%;
+  margin: 2px;
+}
+
+.kz-input-text {
+  margin-top: 3px;
+  width:96%;
+  margin-left:6px
+}
+
+.col-xs-3, .col-xs-9 {
+  padding-left: 2px;
+}
+
+.text-center {
+  border-radius: 20px;
+  padding: 10px;
+  width: 321px;
+
+}
+
+.btn-default {
+  width: 65px;
+}
+
+.btn-success {
+  width: 65px;
+}
+
+.btn-warning {
+  width: 77px;
+}
+
+.btn-danger {
+  width: 82px
+}
+
+.row {
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px
+}
